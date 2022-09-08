@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi👋 there, I'm Polina</h1>
+<h2 align="center">I like to create, especially when it comes to websites!👾💻</h2>
+<h3 align="center">You can get to know me better by just going to my <a href="/" target="_blank">CV</a> (←_←)</h3>
 
-<!--
-**PolinaTcaciuc/PolinaTcaciuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Now I am actively studying JavaScript and following my ideas! You can view my projects in my repository!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to do a joint project with me, offer cooperation or just talk?
+
+You can always do it by **writing me**!
+#### Contact with me:
+* Email: [polinatcaciuc@gmail.com](mailto:polinatcaciuc@gmail.com)
+
+
+
