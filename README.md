@@ -16,4 +16,4 @@ You can always do it by **writing me**!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polinatcaciuc&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-##### Have a good day:)
+##### Have a good day :)
