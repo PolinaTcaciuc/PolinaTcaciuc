@@ -1,19 +1,24 @@
-<h1 align="center">Hi👋 there, I'm Polina</h1>
+## Hey, I'm Polina !
+
+:chart_with_upwards_trend: I develop projects using Nuxt 3 and Vue 3. I'm always exploring new tools and methods to refine my skills and find the best solutions for each project.
+
+Interested in collaborating, working on a project together, or just having a chat?
+
+### Feel free to reach out to me anytime ! :new_moon_with_face:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:polinatcaciuc@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PolinaMichel)
 
 
+### Tools I work with
 
-<h2 align="center">I like to create, especially when it comes to websites!👾💻</h2>
-<h3 align="center">You can get to know me better by just going to my <a href="/" target="_blank">CV</a> (←_←)</h3>
-
-Now I am actively studying JavaScript and following my ideas! You can view my projects in my repository!
-
-If you want to do a joint project with me, offer cooperation or just talk?
-
-You can always do it by **writing me**!
-#### Contact with me:
-* email: [polinatcaciuc@gmail.com](mailto:polinatcaciuc@gmail.com)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polinatcaciuc&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-##### Have a good day :)
+<img alt="Nuxt 3" src="https://img.shields.io/badge/nuxt%20js-00dc82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"> <img alt="Vue 3" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img alt="Alpine JS" src="https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black">
+<img alt="Vitest" src="https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=%23fcd703">
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img alt="Node.js" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
