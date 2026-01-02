@@ -26,3 +26,5 @@ Interested in collaborating, working on a project together, or just having a cha
 <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
 <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=laravel&logoColor=fff">
+
